@@ -1,7 +1,7 @@
 '''
 Python 3.9 or higher required
 
-Download the entries as csv files from the Google Sheets and save them in the same folder as this script,
+Download the entries as csv files from Google Sheets and save them in the same folder as this script,
 then run the script to generate the IOF XML files
 '''
 import xml.etree.ElementTree as ET
